@@ -14,6 +14,8 @@ You will see a button
 
 Normally with the ecu connected Tuner studio should go grey and stay that way, if it reconnects it didn't work and you have to try again.
 
+If this doesn't work for you, you can use the manual mode, Using a jumper as shown in the "Manual DFU mode" image.
+
 windows should say something about a stm32 Bootloader. when this happens you need to run Zadig.
 View the image in the download to see the settings needed.
 Run Zadig
