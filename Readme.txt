@@ -29,3 +29,4 @@ run Uploadfirmware.bat and it should open up a dos screen
 identify the cpu and start programing.
 once programed unplug ecu and reconnect to TS, it will ask to update the ini file
 the new ini file is Speeduino.ini in this download directory.
+See Image Project_Properties for setting un Tuner Studio
